@@ -11,7 +11,8 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
-<br>
+<br />
+
 ### Language and tools:
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
@@ -20,12 +21,16 @@
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" />
-<br>
+<br />
+
+
 Soon:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg" />
-<br>
+<br />
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wraaap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Counter](https://komarev.com/ghpvc/?username=wraaap&color=ff69b4&style=flat-square)
