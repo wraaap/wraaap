@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋  I'm a HTML coder and Frontend Developer
+- ✋🤚 I like to write code
+- 🛵 I like to ride a motorcycle
+- 🌱 I am constantly learning JavaScript and React
+
+### Connect with me:
+
+
 
 <!--
 **wraaap/wraaap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
