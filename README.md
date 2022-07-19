@@ -8,7 +8,7 @@
 - 🌱 I am constantly learning JavaScript and React
 
 ### Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[#EA4335].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[EA4335].svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#26A5E4.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#E4405F.svg" />
 
