@@ -16,9 +16,8 @@
 <em>Skills: CSS / HTML / JS  / REACT / VUE JS</em> -->
 
 ### Language and tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
+<img style="align: left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vsco.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gulp.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" />
