@@ -8,28 +8,27 @@
 - 🌱 I am constantly learning JavaScript and React
 
 ### Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/[EA4335].svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#26A5E4.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#E4405F.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
 
 <!-- 
 <em>Skills: CSS / HTML / JS  / REACT / VUE JS</em> -->
 
 ### Language and tools:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#1572B6.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#E34F26.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#007ACC.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#CC6699.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#21759B.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#06B6D4.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#6FDA44.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#7952B3.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#F24E1E.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vscode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gulp.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" />
 
 Soon:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#F7DF1E.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#339933.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/#61DAFB.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/js.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodejs.svg" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wraaap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
