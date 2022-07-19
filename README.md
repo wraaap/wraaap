@@ -25,9 +25,9 @@
 
 
 ### Soon:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
+<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg" />
 <br />
 
 
