@@ -4,7 +4,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - ✋🤚 I like to write code
-- 🛵 I like to ride a motorcycle
 - 🌱 I am constantly learning JavaScript and React
 
 ### Connect with me:
