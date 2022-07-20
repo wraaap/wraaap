@@ -7,28 +7,33 @@
 - 🌱 I am constantly learning JavaScript and React
 
 ### Connect with me:
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gmail.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/telegram.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg" />
-<br />
+
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-NAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NAME/)](https://www.linkedin.com/in/NAME/)
+[![Instagram Badge](https://img.shields.io/badge/-NAME-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/NAME/)](https://instagram.com/NAME) -->
+[![Gmail Badge](https://img.shields.io/badge/-kayo.wraap@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayo.wraap@gmail.com)](mailto:kayo.wraap@gmail.com)
+
 
 ### Language and tools:
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" />
+
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gulp.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" />
 <br />
 
 
 ### Soon:
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/react.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/nodedotjs.svg" />
-<br />
-<br />
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wraaap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
