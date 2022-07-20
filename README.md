@@ -22,18 +22,18 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![WordpPress](https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white)
 
 
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gulp.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/wordpress.svg" />
 <img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tailwindcss.svg" />
 <br />
 
 
 ### Soon:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wraaap&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
