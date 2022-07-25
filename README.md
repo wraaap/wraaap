@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!  I'm a <a href="#" target="_blank">Maria</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
-<h3 align="center">HTML coder and Frontend Developer</h3>
+<h3 align="center">HTML Coder and Frontend Developer</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 - ✋🤚 I like to write code
