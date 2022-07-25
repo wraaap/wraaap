@@ -10,7 +10,7 @@
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-NAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/NAME/)](https://www.linkedin.com/in/NAME/)
 [![Instagram Badge](https://img.shields.io/badge/-NAME-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/NAME/)](https://instagram.com/NAME) -->
-[![Gmail Badge](https://img.shields.io/badge/-kayo.wraap@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayo.wraap@gmail.com)](mailto:kayo.wraap@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wraaapp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wraaapp@gmail.com)](mailto:wraaapp@gmail.com)
 
 
 ### Language and tools:
